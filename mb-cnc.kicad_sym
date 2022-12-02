@@ -18,7 +18,7 @@
     (symbol "C11GD_0_0"
       (rectangle (start -41.91 35.56) (end 43.18 -21.59)
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
       (rectangle (start -31.75 -21.59) (end 31.75 -11.43)
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
@@ -376,7 +376,7 @@
     (symbol "Ethernet-SmoothStepper_0_0"
       (rectangle (start -41.91 39.37) (end 43.18 -21.59)
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
       (text "Ethernet" (at 30.48 10.16 0)
         (effects (font (size 1.27 1.27)))
@@ -472,7 +472,7 @@
     (symbol "M26-R12_0_0"
       (rectangle (start -44.45 26.67) (end 45.72 -30.48)
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
       (rectangle (start -41.91 -20.32) (end -21.59 -30.48)
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
@@ -787,7 +787,7 @@
     (symbol "POWER4-HUB_0_0"
       (rectangle (start -21.59 16.51) (end 21.59 -19.05)
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
       (rectangle (start -19.05 -8.89) (end -11.43 -19.05)
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
@@ -909,7 +909,7 @@
     (symbol "Phoenix-Trio-Power_0_1"
       (rectangle (start -12.7 24.13) (end 12.7 -26.67)
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
     )
     (symbol "Phoenix-Trio-Power_1_1"
@@ -973,7 +973,7 @@
     (symbol "Phoenix-Uno-Power-12V_0_1"
       (rectangle (start -12.7 24.13) (end 12.7 -26.67)
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
     )
     (symbol "Phoenix-Uno-Power-12V_1_1"
@@ -1025,7 +1025,7 @@
     (symbol "Phoenix-Uno-Power-5V_0_1"
       (rectangle (start -12.7 24.13) (end 12.7 -26.67)
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
     )
     (symbol "Phoenix-Uno-Power-5V_1_1"
@@ -1074,7 +1074,7 @@
     (symbol "Teknic-IPC-5_0_1"
       (rectangle (start -11.43 27.94) (end 12.7 -34.29)
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
     )
     (symbol "Teknic-IPC-5_1_1"
